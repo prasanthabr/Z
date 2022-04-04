@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <docs>https://blogs.law.harvard.edu/tech/rss</docs>
-    <title>Categories on prasanthabr</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on prasanthabr</description>
+    <title>Search me! on prasanthabr</title>
+    <link>/search/</link>
+    <description>Recent content in Search me! on prasanthabr</description>
     <image>
-      <title>Categories on prasanthabr</title>
-      <link>/categories/</link>
+      <title>Search me! on prasanthabr</title>
+      <link>/search/</link>
       <url>https://source.unsplash.com/collection/983219/2000x1322</url>
     </image>
     <ttl>1440</ttl>
@@ -14,13 +14,6 @@
     <language>en-us</language>
     <copyright>Copyright &amp;copy; PA. Licensed under CC-BY-ND-4.0.</copyright>
     <lastBuildDate>Mon, 04 Apr 2022 07:28:48 UT</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hacking</title>
-      <link>/categories/hacking/</link>
-      <guid>/categories/hacking/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
+    <atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
