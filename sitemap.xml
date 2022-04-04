@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/after/</loc>
+    <loc>http://z.netzap.xyz/tags/after/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://z.netzap.xyz/categories/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/tags/dark/</loc>
+    <loc>http://z.netzap.xyz/tags/dark/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/categories/hacking/</loc>
+    <loc>http://z.netzap.xyz/categories/hacking/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>http://z.netzap.xyz/post/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://z.netzap.xyz/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://z.netzap.xyz/tags/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/post/totally-twisted/</loc>
+    <loc>http://z.netzap.xyz/post/totally-twisted/</loc>
     <lastmod>2022-04-03T21:38:54+12:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>http://z.netzap.xyz/search/</loc>
   </url>
 </urlset>

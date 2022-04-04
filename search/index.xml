@@ -2,18 +2,18 @@
   <channel>
     <docs>https://blogs.law.harvard.edu/tech/rss</docs>
     <title>Search me! on prasanthabr</title>
-    <link>/search/</link>
+    <link>http://z.netzap.xyz/search/</link>
     <description>Recent content in Search me! on prasanthabr</description>
     <image>
       <title>Search me! on prasanthabr</title>
-      <link>/search/</link>
+      <link>http://z.netzap.xyz/search/</link>
       <url>https://source.unsplash.com/collection/983219/2000x1322</url>
     </image>
     <ttl>1440</ttl>
     <generator>Hugo 0.83.1</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; PA. Licensed under CC-BY-ND-4.0.</copyright>
-    <lastBuildDate>Mon, 04 Apr 2022 07:31:25 UT</lastBuildDate>
-    <atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 08:27:44 UT</lastBuildDate>
+    <atom:link href="http://z.netzap.xyz/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

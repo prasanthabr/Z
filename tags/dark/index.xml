@@ -2,24 +2,24 @@
   <channel>
     <docs>https://blogs.law.harvard.edu/tech/rss</docs>
     <title>dark on prasanthabr</title>
-    <link>/tags/dark/</link>
+    <link>http://z.netzap.xyz/tags/dark/</link>
     <description>Recent content in dark on prasanthabr</description>
     <image>
       <title>dark on prasanthabr</title>
-      <link>/tags/dark/</link>
+      <link>http://z.netzap.xyz/tags/dark/</link>
       <url>https://source.unsplash.com/collection/983219/2000x1322</url>
     </image>
     <ttl>1440</ttl>
     <generator>Hugo 0.83.1</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; PA. Licensed under CC-BY-ND-4.0.</copyright>
-    <lastBuildDate>Mon, 04 Apr 2022 07:31:25 UT</lastBuildDate>
-    <atom:link href="/tags/dark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 08:27:44 UT</lastBuildDate>
+    <atom:link href="http://z.netzap.xyz/tags/dark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Totally Twisted</title>
-      <link>/post/totally-twisted/</link>
+      <link>http://z.netzap.xyz/post/totally-twisted/</link>
       <pubDate>Sun, 03 Apr 2022 09:38:54 UT</pubDate>
-      <guid>/post/totally-twisted/</guid>
+      <guid>http://z.netzap.xyz/post/totally-twisted/</guid>
       <description>hello hello
 Before continuing please create a post archetype. Archetypes are located within markdown files in the archetypes directory of your site:
 flying-toasters├── archetypes│ ├── default.md│ └── post.md├── contentIf post.md does not exist yet, copy it from the After Dark default:
@@ -27,7 +27,7 @@ $ cd flying-toasters $ cp themes/after-dark/archetypes/post.md archetypes/ Make 
 $ vi archetypes/post.md # or vim, emacs, nano ... $ hugo new post/totally-twisted.md If hugo server is running with the --navigateToChanged flag your new post will appear automatically in JavaScript-enabled browsers. If you see an empty page you probably need to restart hugo server with the --buildDrafts flag.
 Use archetypes to maintain consistency when creating content for Custom Layouts. Like custom layouts Hugo Archetypes may contain templating logic.
 </description>
-      <category domain="/categories/hacking">Hacking</category>
+      <category domain="http://z.netzap.xyz/categories/hacking">Hacking</category>
       <content:encoded><![CDATA[hello hello
 Before continuing please create a post archetype. Archetypes are located within markdown files in the archetypes directory of your site:
 flying-toasters├── archetypes│ ├── default.md│ └── post.md├── contentIf post.md does not exist yet, copy it from the After Dark default:
